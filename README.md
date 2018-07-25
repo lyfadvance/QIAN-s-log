@@ -1,7 +1,6 @@
 # QIAN-s-log
 7/25  
-read：  
-Inceptext   
+read：Inceptext   
 notes：
 base framework：FCIS（instance segmentation  
 main idea：inception-text module（google-Net）  
